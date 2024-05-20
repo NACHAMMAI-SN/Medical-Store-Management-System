@@ -1,0 +1,4 @@
+aspirin                        24.00 190
+mox                            12.00 88
+aspirin                        26.00 200
+paracetomol                    12.00 199

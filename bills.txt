@@ -1,0 +1,16 @@
+Customer: sam | Medicine Name: aspirin                        | Quantity: 2 | Price: 10.00 | Amount: 20.00
+Total Amount for sam: 20.00
+--------------------------------------------
+Customer: aishu | Medicine Name: mox                            | Quantity: 2 | Price: 230.00 | Amount: 460.00
+Total Amount for aishu: 460.00
+--------------------------------------------
+Customer: anis | Medicine Name: aspirin                        | Quantity: 2 | Price: 23.00 | Amount: 46.00
+Customer: anis | Medicine Name: aspirin                        | Quantity: 2 | Price: 20.00 | Amount: 40.00
+Total Amount for anis: 86.00
+--------------------------------------------
+Customer: sam | Medicine Name: mox                            | Quantity: 12 | Price: 12.00 | Amount: 144.00
+Total Amount for sam: 144.00
+--------------------------------------------
+Customer: sam | Medicine Name: paracetomol                    | Quantity: 1 | Price: 12.00 | Amount: 12.00
+Total Amount for sam: 12.00
+--------------------------------------------

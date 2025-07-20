@@ -1,4 +1,5 @@
-Project Description: Our project, the Medical Store Management System, aims to streamline and automate various operations involved in running a pharmacy or medical store. Built using the C programming language, this system provides a digital platform for managing medication inventory, customer data, supplier information, transactions, and billing. Key features include:
+Project Description: 
+The Medical Store Management System, aims to streamline and automate various operations involved in running a pharmacy or medical store. Built using the C programming language, this system provides a digital platform for managing medication inventory, customer data, supplier information, transactions, and billing. Key features include:
 
 Medicine Administration: Add, update, and remove medications from inventory. Display detailed information about available drugs.
 Client Management: Maintain client records including names, addresses, and contact information. Manage billing and transaction history.
